@@ -4,3 +4,5 @@ Word2Vec embedding method implemented with numpy on a small token sized text abo
 
 
 ![Training plot](./assets/training.png)
+
+![Cosine distance](assets/cosine_dist.png)
